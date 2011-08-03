@@ -7,12 +7,10 @@ namespace ConsoleApplication1
 {
     class Program
     {
-        //this is the second commit
-        //ggg
-
         static void Main(string[] args)
         {
-            Console.WriteLine("Test console application 1");
+            Console.WriteLine("Test console application 1 - full cycle test 1");
+            Console.ReadKey();
         }
     }
 }
